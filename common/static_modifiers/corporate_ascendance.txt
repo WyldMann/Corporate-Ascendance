@@ -1,0 +1,4 @@
+corporate_ascendance = {
+	country_max_companies_add = 3
+	country_free_charters_add = 20
+}
